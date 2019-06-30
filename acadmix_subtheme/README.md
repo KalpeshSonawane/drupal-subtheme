@@ -1,1 +1,1 @@
-# suntheme_template
+# subtheme_template
